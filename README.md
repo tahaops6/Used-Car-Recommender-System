@@ -33,6 +33,8 @@ The Python script follows these steps:
 11. **Displays the top recommended cars** - The top 10 cars with the highest predicted scores are printed.
 
 12. **Visualizes the data** - A scatter plot of the top recommended cars, showing their mileage and price, is displayed.
+![Scatterplot](Used Car Recommender System/Figure_12.png)
+
 
 ## Usage
 
