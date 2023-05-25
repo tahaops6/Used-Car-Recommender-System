@@ -33,9 +33,12 @@ The Python script follows these steps:
 11. **Displays the top recommended cars** - The top 10 cars with the highest predicted scores are printed.
 
 12. **Visualizes the data** - A scatter plot of the top recommended cars, showing their mileage and price, is displayed.
+
 ![git1](https://github.com/tahaops6/Used-Car-Recommender-System/assets/73063858/c8793894-aa7c-4a0e-abaf-41b64559123e)
 
 ![Figure_12](https://github.com/tahaops6/Used-Car-Recommender-System/assets/73063858/ce70f91b-314e-449d-b69e-46d1e387cc44)
+
+
 ## Usage
 
 1. Clone this repository.
